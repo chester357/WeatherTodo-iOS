@@ -1,0 +1,25 @@
+Features Used
+- Tab Bar Controller
+- View Controller
+- Navigation Controller
+- Table View
+- Nav Bar
+- Buttons, Lables, Segmented Controlls
+
+- Realm Database (search, add, build, sort)
+- NSDate 
+- NSDateFormatter
+- NSCalendar
+- Core Location
+- Async HTTP Request to API
+- Dispatch async to update main queue/thread?
+
+- Table View Delegate
+- Table View Datasource
+- CL Location Manager Delegate
+- Text Field Delagate
+
+- Extensions
+- Enums 
+- Classes
+
